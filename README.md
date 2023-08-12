@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Auwalulu
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning data analysis 
-- 💞️ I’m looking to collaborate on data analysis and management 
+- 👀 I’m interested in data analysis and Social media management 
+- 🌱 I’m currently learning data analysis
+- I am currently a social media manager 
+- 💞️ I’m looking to collaborate on data analysis and social media management 
 - 📫 How to reach me @_auwalulu on Twitter and IG
 
 <!---
